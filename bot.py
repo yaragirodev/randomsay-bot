@@ -10,9 +10,9 @@ from telegram.ext import Application, CommandHandler, MessageHandler, filters, C
 
 # --- КОНФИГУРАЦИЯ ---
 # ВАЖНО: Вставьте сюда ваш токен от BotFather
-BOT_TOKEN = "7755723670:AAH113oys8_udSF-00xscw7vj8P281vhfyc"
+BOT_TOKEN = ""
 # ВАЖНО: Установите надежный пароль для административных команд
-ADMIN_PASSWORD = "ogurec" # <-- ЗАМЕНИТЕ НА СВОЙ ПАРОЛЬ
+ADMIN_PASSWORD = "п" # <-- ЗАМЕНИТЕ НА СВОЙ ПАРОЛЬ
 
 # --- НАСТРОЙКА ЛОГГИРОВАНИЯ ---
 logging.basicConfig(
